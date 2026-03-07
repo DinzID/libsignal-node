@@ -1,5 +1,5 @@
 {
-  "name": "@DinzID/libsignal-node",
+  "name": "@dinzid04/libsignal-node",
   "version": "2.2.4",
   "description": "Open Whisper Systems' libsignal for Node.js",
   "repository": "DinzID/libsignal-node",
